@@ -1,0 +1,12 @@
+.appContainer{
+    font-family: Arial;
+    background-image: linear-gradient(to bottom right, rgb(44, 109, 170), rgb(159, 217, 255));
+
+    border-radius: 25px;
+    padding: 20px;
+
+    display: inline-block;
+
+    width: 350px;
+    height: 300px;
+}

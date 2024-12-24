@@ -1,0 +1,57 @@
+.watchContainer{
+    height: 110px;
+}
+
+.dateContainer{
+    display: inline-block;
+    
+    /* border-width: 2px;
+    border-style: solid;
+    border-color: white; */
+
+    height: 110px;
+    vertical-align: top;
+}
+
+.timeContainer{
+    display: inline-block;
+    
+    /* border-width: 2px;
+    border-style: solid;
+    border-color: white; */
+
+    position: absolute;
+    left: 300px;
+}
+
+.dateParagraph{
+    color: white;
+    font-weight:500px;
+    font-size: 35px;
+}
+
+.timeParagraph{
+    display: inline-block;
+    color: white;
+    font-size: 35px;
+
+    height:35px;
+}
+
+#seconds{
+    font-size: 15px;
+    margin-top: 1px;
+}
+
+#timeZoneParagraph{
+    font-size: 10px;
+    vertical-align: bottom;
+    position: absolute;
+
+    /* margin-top: 60px; */
+    
+}
+
+.progressBarContainer{
+    margin-left: 110px;
+}
